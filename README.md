@@ -1,0 +1,9 @@
+- 👋 Hi, I’m Julian West
+- 👀 I’m interested in Knowledge Representation, Machine Learning/Neurocomputing, Bio simulations
+- 💞️ I’m looking to collaborate on the BrainAnnex web app, and on the upcoming "Life2D" project
+- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/julian-%F0%9F%A7%AC-west-059997185/
+
+<!---
+BrainAnnex/BrainAnnex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
